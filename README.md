@@ -3,7 +3,7 @@
 ## setup
 
 ```
-$ yarn add -D eslint @dowdiness/eslint-config
+$ yarn add -D eslint @dowdiness/eslint-config eslint-config-prettier eslint-plugin-prettier prettier
 ```
 
 .eslintrc
