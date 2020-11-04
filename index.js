@@ -5,7 +5,7 @@ module.exports = {
     "es6": true
   },
   parser: '@typescript-eslint/parser',
-  extends: ['plugin:react/recommended', 'standard', 'plugin:@typescript-eslint/recommended', 'plugin:prettier/recommended'],
+  extends: ['plugin:react/recommended', 'standard-with-typescript', 'plugin:@typescript-eslint/recommended', 'plugin:prettier/recommended'],
   parserOptions: {
     ecmaVersion: 2020,
     "ecmaFeatures": {
