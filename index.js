@@ -7,7 +7,7 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   extends: ['plugin:react/recommended', 'standard', 'plugin:@typescript-eslint/recommended', 'plugin:prettier/recommended'],
   parserOptions: {
-    ecmaVersion: 2018,
+    ecmaVersion: 2020,
     "ecmaFeatures": {
       "jsx": true
     },
@@ -19,7 +19,7 @@ module.exports = {
       version: 'detect'
     }
   },
- plugins: ['@typescript-eslint', 'react', 'react-hooks', 'prettier'],
+  plugins: ['@typescript-eslint', 'react', 'react-hooks', 'prettier'],
   rules: {
     '@typescript-eslint/explicit-function-return-type': 'off',
   }
