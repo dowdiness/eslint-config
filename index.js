@@ -30,6 +30,7 @@ module.exports = {
     'no-unreachable': 'error',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/strict-boolean-expressions': 'off',
+    '@typescript-eslint/member-delimiter-style': 'off',
     'react/no-unescaped-entities': 'off',
     'react/prop-types': 'off',
   }
