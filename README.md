@@ -1,15 +1,15 @@
-# @hiro08/eslint-config
+# @dowdiness/eslint-config
 
 ## setup
 
 ```
-$ yarn add -D eslint @hiro08/eslint-config
+$ yarn add -D eslint @dowdiness/eslint-config
 ```
 
 .eslintrc
 
 ```
 {
-  "extends": "@hiro08"
+  "extends": "@dowdiness"
 }
 ```
