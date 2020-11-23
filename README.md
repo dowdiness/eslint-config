@@ -13,3 +13,9 @@ $ yarn add -D eslint @dowdiness/eslint-config eslint-config-prettier eslint-plug
   "extends": "@dowdiness"
 }
 ```
+
+If you want to version up
+
+```sh
+npm version patch
+```
